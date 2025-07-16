@@ -1,2 +1,2 @@
 # personal_website
-my website will be my first project
+this wesbite is my first project on github i hope i the motivation to finish it.
